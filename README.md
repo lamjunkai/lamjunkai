@@ -14,7 +14,7 @@
 </h5> -->
 <br>
 <p align="center">
-  Hi, I'm James Wang, Senior Software Engineer & Software Developer from Hong Kong
+  Hi, I'm kai, Senior Software Engineer & Software Developer from Hong Kong
   <br>
   <br>
   🔬 I'm currently working as a freeancer and have much experience over 7 years
